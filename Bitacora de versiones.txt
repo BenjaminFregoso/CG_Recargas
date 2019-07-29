@@ -1,0 +1,26 @@
+1.001.0
+30/08/2018
+Se libero el programa de recargas.
+
+1.002.1
+07/09/2018
+Correcciones menores.
+
+1.006.4
+02/04/2019 
+Se cambio el argumento de busqueda, se utilizaba por no_transaccion y ahora se busca por operación.
+Cambios menores.
+
+1.007.2 
+30/04/2019
+Busqueda por operación descendente.
+Cambios menores.
+
+1.008.3
+24/06/2019
+Busqueda por operación y code. 
+Evitar que una recarga que ya se hizo se pueda hacer de nuevo debido a que sia no actualiza el número de operación si no hay venta.
+
+1.009.1
+25/06/2019
+Ventana siempre al frente
